@@ -1,4 +1,4 @@
-# Inflection of Lithuanian words
+# Inflection of Lithuanian names and surnames
 
 <p align="left">
 <a href="https://packagist.org/packages/neriba/lt-case"><img src="https://img.shields.io/packagist/v/neriba/lt-case.svg?style=flat-square" alt="Latest Stable Version"></a>
@@ -16,7 +16,7 @@ composer require neriba/lt-case
 
 ## What It Does
 
-This package allows you to inflect Lithuanian names.
+This package allows you to inflect Lithuanian names and surnames.
 
 ```php
 use \NeriBa\LTCase\LTCase;
