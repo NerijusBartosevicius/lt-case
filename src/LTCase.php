@@ -107,6 +107,7 @@ class LTCase
      * @param  string  $case
      *
      * @return string
+     * @throws CaseException
      */
     static protected function toCase($phrase, $case = 'sau')
     {
