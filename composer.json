@@ -4,7 +4,8 @@
     "homepage": "https://github.com/NerijusBartosevicius/lt-case",
     "keywords": [
         "linksniai",
-        "linksniavimas"
+        "linksniavimas",
+        "php"
     ],
     "version": "1.0.0",
     "license": "MIT",
