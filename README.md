@@ -28,6 +28,11 @@ echo LTCase::get('Kęstutis Mažvydas !@#$#%^%&^%***___---??','ina'); // Result:
 echo LTCase::get('Kęstutis Mažvydas !@#$#%^%&^%***___---??','vie'); // Result: Kęstutyje Mažvyde
 echo LTCase::get('Kęstutis Mažvydas !@#$#%^%&^%***___---??','sau'); // Result: Kęstuti Mažvydai
 ```
+
+`NOTE: If you don't want to use package, you can just use class from Gist`
+
+[LTCase class Gist](https://gist.github.com/NerijusBartosevicius/455f11841acbd31149934d16d92a5df1)
+
 # License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
