@@ -1,4 +1,4 @@
-# Inflection of Lithuanian words.
+# Inflection of Lithuanian words
 
 <p align="left">
 <a href="https://packagist.org/packages/neriba/lt-case"><img src="https://img.shields.io/packagist/v/neriba/lt-case.svg?style=flat-square" alt="Latest Stable Version"></a>
