@@ -1,8 +1,11 @@
 {
     "name": "neriba/lt-case",
-    "description": "Inflection of Lithuanian words. Lietuviškų žodžių linksniavimas.",
+    "description": "Inflection of Lithuanian words.",
     "homepage": "https://github.com/NerijusBartosevicius/lt-case",
-    "type": "library",
+    "keywords": [
+        "linksniai",
+        "linksniavimas"
+    ],
     "version": "1.0.0",
     "license": "MIT",
     "minimum-stability": "dev",
