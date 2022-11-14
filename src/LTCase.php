@@ -132,6 +132,7 @@ class LTCase
      * @param  string  $encoding
      *
      * @return string
+     * @throws CaseException
      */
     static public function get($phrase, $case = 'sau', $encoding = 'UTF-8')
     {
