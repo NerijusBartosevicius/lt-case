@@ -1,0 +1,24 @@
+{
+    "name": "neriba/lt-case",
+    "description": "Inflection of Lithuanian words. Lietuviškų žodžių linksniavimas.",
+    "homepage": "https://github.com/NerijusBartosevicius/lt-case",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "NeriBa\\LTCase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nerijus Bartosevicius",
+            "email": "nerijus.bartosevicius@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.5"
+    }
+}
