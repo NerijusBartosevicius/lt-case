@@ -140,7 +140,7 @@ class LTCase
 
         $modifiedCase = array_map(
             static function ($part) use ($case) {
-                return self::toCase($part, $case);
+                return self::toCase($part, strtolower($case));
             },
             explode(' ', self::preparePhrase($phrase))
         );
